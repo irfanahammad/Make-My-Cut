@@ -92,3 +92,7 @@ npm run dev
 * **Check backend endpoints:** [Lovable AI](https://style-sync-backend.lovable.app/)
 * **View source & fork:** [GitHub](https://irfanahmed0019.github.io/Make-My-Cut/)
 
+
+
+
+https://forms.gle/VdqLdLkZ3wgR4yvr8
