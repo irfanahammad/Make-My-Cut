@@ -1,7 +1,6 @@
 
 # 🚀 MakeMyCut – Your Style,Your Time
 
-![GitHub stars](https://img.shields.io/github/stars/irfanahmed0019/Make-My-Cut?style=social) ![GitHub forks](https://img.shields.io/github/forks/irfanahmed0019/Make-My-Cut?style=social) ![Vercel](https://img.shields.io/badge/deploy-vercel-black?style=flat-square) ![React](https://img.shields.io/badge/frontend-react-blue?style=flat-square) ![Lovable AI](https://img.shields.io/badge/backend-Lovable%20AI-purple?style=flat-square)
 
 
 ## 🔗 Quick Access / Hero Badges
@@ -66,46 +65,5 @@ Access locally at: `http://localhost:5173/`
 4. **Collect user feedback** → Iterate fast & scale
 
 ---
-
-## 🖼 Screenshots / Visuals
-
-### Dashboard
-
-![Dashboard Preview](https://raw.githubusercontent.com/irfanahmed0019/Make-My-Cut/main/assets/dashboard.png)
-
-### Survey Form
-
-![Survey Form Preview](https://raw.githubusercontent.com/irfanahmed0019/Make-My-Cut/main/assets/survey-form.png)
-
-### Analytics View
-
-![Analytics Preview](https://raw.githubusercontent.com/irfanahmed0019/Make-My-Cut/main/assets/analytics.png)
-
-*(Replace above links with your actual project GIFs/screenshots)*
-
----
-
-## 🚀 Next Steps (Growth & Scaling)
-
-* Add **user authentication** & profiles
-* Integrate **analytics dashboards** for insights
-* Expand **AI capabilities** for predictive surveys
-* Build **mobile-ready UI** for iOS/Android
-
----
-
-This version now:
-
-* **Grabs attention** immediately with badges & hero GIF
-* **Guides users** with clickable CTAs at the top
-* **Showcases your product visually** with screenshots
-* **Professional, investor-friendly** layout
-
----
-
-If you want, Cap, I can **also design a “compact, scrollable GIF showcase section” with multiple demos in one horizontal strip**, so your README looks like an actual product landing page inside GitHub.
-
-Do you want me to do that next?
-
 
 https://forms.gle/VdqLdLkZ3wgR4yvr8
