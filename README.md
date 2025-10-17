@@ -1,8 +1,5 @@
-Roger, Cap. We’re going **all-in**. Here’s your **fully modern, professional, visually striking GitHub README** for MakeMyCut. It combines **hero badges, live demo GIF, screenshots, tech stack, features, workflow, and next steps** — all in one polished package. Copy-paste-ready for your repo:
 
----
-
-# 🚀 MakeMyCut – AI-Powered Survey MVP
+# 🚀 MakeMyCut – Your Style,Your Time
 
 ![GitHub stars](https://img.shields.io/github/stars/irfanahmed0019/Make-My-Cut?style=social) ![GitHub forks](https://img.shields.io/github/forks/irfanahmed0019/Make-My-Cut?style=social) ![Vercel](https://img.shields.io/badge/deploy-vercel-black?style=flat-square) ![React](https://img.shields.io/badge/frontend-react-blue?style=flat-square) ![Lovable AI](https://img.shields.io/badge/backend-Lovable%20AI-purple?style=flat-square)
 
