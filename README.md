@@ -3,11 +3,6 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/irfanahmed0019/Make-My-Cut?style=social) ![GitHub forks](https://img.shields.io/github/forks/irfanahmed0019/Make-My-Cut?style=social) ![Vercel](https://img.shields.io/badge/deploy-vercel-black?style=flat-square) ![React](https://img.shields.io/badge/frontend-react-blue?style=flat-square) ![Lovable AI](https://img.shields.io/badge/backend-Lovable%20AI-purple?style=flat-square)
 
-> **“Validate faster. Build smarter. Launch sooner.”**
-> A fully AI-backed MVP to **capture users, test ideas, and scale instantly.**
-> Built with **Lovable AI backend** + **React Vite frontend**, live on **Vercel**.
-
----
 
 ## 🔗 Quick Access / Hero Badges
 
