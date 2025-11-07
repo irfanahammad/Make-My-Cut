@@ -8,7 +8,7 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-🌐-brightgreen?style=for-the-badge)](https://makemycut.lovable.app/)
 [![Frontend](https://img.shields.io/badge/Frontend-Vercel-blue?style=for-the-badge)](https://makemycut.lovable.app/)
 [![Backend](https://img.shields.io/badge/Backend-Lovable%20AI-purple?style=for-the-badge)](https://makemycut.lovable.app/)
-[![Source Code](https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge)](https://github.com/irfanahmed0019/Make-My-Cut)
+[![Source Code](https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge)](https://github.com/irfanahammad/Make-My-Cut)
 
 ---
 
