@@ -47,7 +47,7 @@
 ## ⚡ Quick Start (Local Development)
 
 ```bash
-git clone https://github.com/irfanahmed0019/Make-My-Cut.git
+git clone https://github.com/irfanahammad/Make-My-Cut.git
 cd Make-My-Cut
 npm install
 npm run dev
